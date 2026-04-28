@@ -1,3 +1,4 @@
+
 # Signals
 
 Physical signaling experiments on MicroPython—binary transmission over GPIO, pulse-based light patterns, and button-driven “dialer” input.
